@@ -8,6 +8,7 @@ const firebaseConfig = {
   storageBucket: "katsuodo-fb868.firebasestorage.app",
   messagingSenderId: "914497775345",
   appId: "1:914497775345:web:3d3634a1c3de2145a82b50",
+  databaseURL: "https://katsuodo-fb868-default-rtdb.asia-southeast1.firebasedatabase.app",
 };
 
 const app = initializeApp(firebaseConfig);
